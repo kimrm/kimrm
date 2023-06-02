@@ -12,7 +12,7 @@ A passionate frontend developer and explorer of good design. I'm also a enthusia
 - SQL
 
 ### Projects
-- [Møllers Kitchen Food blog - project exam](https://github.com/Noroff-FEU-Assignments/project-exam-1-kimrm)
+- [Møllers Kitchen Food blog - project exam](https://github.com/kimrm/foodblog)
 - [Community Science Museum - a semester project](https://github.com/kimrm/cosmu)
 - [Rainy Days - course project](https://github.com/kimrm/rainy-days-ca)
 - [MovieNight](https://github.com/kimrm/movienight)
