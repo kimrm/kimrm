@@ -1,6 +1,6 @@
 ## Hey! 👋 I am Kim Møller.
 
-A passionate frontend developer and explorer of good design. I'm also a enthusiastic cook, serving up code and delicious dishes with equal flair. 
+A passionate frontend developer and explorer of good UI design. 
 
 ### Skills\Experience\Tools
 - Javascript
