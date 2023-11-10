@@ -12,6 +12,7 @@ A passionate frontend developer and explorer of good UI design.
 - SQL
 
 ### Projects
+- [Varefinner - Laravel + React project](https://github.com/kimrm/varefinner)
 - [Social Media Site - JS2 course assignment](https://github.com/kimrm/JS2-CA)
 - [Møllers Kitchen Food blog - project exam](https://github.com/kimrm/foodblog)
 - [Community Science Museum - a semester project](https://github.com/kimrm/cosmu)
