@@ -1,6 +1,6 @@
 ## Hey! 👋 I am Kim Møller.
 
-A passionate frontend developer and explorer of good UI design. 
+A passionate fullstack developer with passion for frontend development and UI/UX. 
 
 ### Skills\Experience\Tools
 - Javascript
