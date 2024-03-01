@@ -4,6 +4,7 @@ Fullstack developer with a passion for frontend development and UI/UX.
 
 ### Skills\Experience\Tools
 - Javascript
+- React
 - PHP
 - CSS
 - HTML
