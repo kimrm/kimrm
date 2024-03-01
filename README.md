@@ -12,6 +12,7 @@ Fullstack developer with a passion for frontend development and UI/UX.
 - SQL
 
 ### Projects
+- [React e-commerce course assignment] (https://github.com/kimrm/e-commerce-course-assignment)
 - [Auction House - Vanilla JS SPA](https://github.com/kimrm/auction-house)
 - [Varefinner - Laravel + React project](https://github.com/kimrm/varefinner) (Work in progress)
 - [Social Media Site - JS2 course assignment](https://github.com/kimrm/JS2-CA)
