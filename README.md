@@ -1,13 +1,11 @@
-## Hey! 👋 I am Kim Møller.
+## Hey! 👋 I am Kim.
 
-Fullstack developer with a passion for frontend development and UI/UX. 
+I'm a developer with a passion for frontend development. I have a background from Windows application development with Visual Basic .Net, and also backend development with PHP and Laravel. 
 
 ### Skills\Experience\Tools
-- Javascript
-- React
-- PHP
-- CSS
-- HTML
+- Javascript, React, Next.js
+- PHP, Laravel
+- HTML, CSS
 - Figma
 - Visual Basic .Net
 - SQL
@@ -15,7 +13,6 @@ Fullstack developer with a passion for frontend development and UI/UX.
 ### Projects
 - [React e-commerce course assignment](https://github.com/kimrm/e-commerce-course-assignment)
 - [Auction House - Vanilla JS SPA](https://github.com/kimrm/auction-house)
-- [Varefinner - Laravel + React project](https://github.com/kimrm/varefinner) (Work in progress)
 - [Social Media Site - JS2 course assignment](https://github.com/kimrm/JS2-CA)
 - [Møllers Kitchen Food blog - project exam](https://github.com/kimrm/foodblog)
 - [Community Science Museum - a semester project](https://github.com/kimrm/cosmu)
