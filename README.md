@@ -11,7 +11,7 @@ I'm a developer with a passion for frontend development. I have a background fro
 - SQL
 
 ### Projects
-- [Airbnb style App - Next.js](https://github.com/kimrm/venue-booking-app)
+- [Next.js Airbnb style App](https://github.com/kimrm/venue-booking-app)
 - [React e-commerce course assignment](https://github.com/kimrm/e-commerce-course-assignment)
 - [Auction House - Vanilla JS SPA](https://github.com/kimrm/auction-house)
 - [Social Media Site - JS2 course assignment](https://github.com/kimrm/JS2-CA)
