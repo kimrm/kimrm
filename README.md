@@ -1,20 +1,14 @@
-# Hi! 🙋‍♂️
+# Hi! I'm Kim 🙋‍♂️
 
-A frontend developer constantly learning and working on sharpening my JavaScript and React skills 💪
-I also do some occasional .NET Windows desktop, and backend PHP freelance dev work.
+💪 constantly learning and working on sharpening my JavaScript and React skills
+🚀 currently into Next.js
+💙 passionate about React
+💼 occasional do .NET Windows desktop, and backend PHP freelance dev work.
+🎣 enjoys fishing trips to clear my 🤯 head
 
-🚀 Currently into Next.js
-💙 Passionate about React
-🎣 I enjoy fishing trips to clear my 🤯 head
+_Living the Life_
 
-### Skills\Experience\Tools
-
-- Javascript, React, Next.js
-- PHP, Laravel
-- HTML, CSS, Tailwindcss
-- Figma
-- Visual Basic/C# .Net
-- SQL
+📫 How to reach me: [My website](https://kimrune.dev) | [linkedIn](https://www.linkedin.com/in/kim-rune-m%C3%B8ller-32523394)
 
 ### Projects
 
@@ -27,10 +21,6 @@ I also do some occasional .NET Windows desktop, and backend PHP freelance dev wo
 - [HTML/JS Webshop - Course Assignment](https://github.com/kimrm/rainy-days-ca)
 - [MovieNight - Course Assignment](https://github.com/kimrm/movienight)
 - [Portfolio website](https://kimrune.dev)
-
-_Living the Life._
-
-📫 How to reach me: [My website](https://kimrune.dev) | [linkedIn](https://www.linkedin.com/in/kim-rune-m%C3%B8ller-32523394)
 
 <!--
 **kimrm/kimrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
