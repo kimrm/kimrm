@@ -1,10 +1,10 @@
 # Hi! I'm Kim 🙋‍♂️
 
-💪 constantly learning and working on sharpening my JavaScript and React skills
-🚀 currently into Next.js
-💙 passionate about React
-💼 occasional do .NET Windows desktop, and backend PHP freelance dev work.
-🎣 enjoys fishing trips to clear my 🤯 head
+- 💪 constantly learning and working on sharpening my JavaScript and React skills
+- 🚀 currently into Next.js
+- 💙 passionate about React
+- 💼 occasional do .NET Windows desktop, and backend PHP freelance dev work.
+- 🎣 enjoys fishing trips to clear my 🤯 head
 
 _Living the Life_
 
