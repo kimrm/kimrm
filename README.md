@@ -12,6 +12,7 @@ _Living the Life_
 
 ### Projects
 
+- [Info screen solution](https://github.com/kimrm/room-status)
 - [Next.js Airbnb style App - Project Exam](https://github.com/kimrm/venue-booking-app)
 - [React e-commerce - Course Assignment](https://github.com/kimrm/e-commerce-course-assignment)
 - [Vanilla JS SPA Auction App - Semester Project](https://github.com/kimrm/auction-house)
