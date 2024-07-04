@@ -3,7 +3,7 @@
 - 💪 constantly learning and working on sharpening my JavaScript and React skills
 - 🚀 currently into Next.js
 - 💙 passionate about React
-- 💼 occasionally doing .NET Windows desktop, and PHP freelance dev work
+- 💼 occasionally doing .NET Windows desktop and PHP freelance dev work
 - 🎣 enjoys fishing trips to clear my mind
 
 _Living the Life_
