@@ -3,8 +3,8 @@
 - 💪 constantly learning and working on sharpening my JavaScript and React skills
 - 🚀 currently into Next.js
 - 💙 passionate about React
-- 💼 occasionally doing .NET Windows desktop, and backend PHP, freelance dev work.
-- 🎣 enjoys fishing trips to clear my 🤯 head
+- 💼 occasionally doing .NET Windows desktop, and PHP freelance dev work
+- 🎣 enjoys fishing trips to clear my mind
 
 _Living the Life_
 
@@ -12,7 +12,7 @@ _Living the Life_
 
 ### Projects
 
-- [Full-stack Express.js/React - Info screen solution](https://github.com/kimrm/room-status) - Work in progress
+- [Full-stack Express/React - Info screen solution](https://github.com/kimrm/room-status) - Work in progress
 - [Next.js Airbnb style App - Project Exam](https://github.com/kimrm/venue-booking-app)
 - [React e-commerce - Course Assignment](https://github.com/kimrm/e-commerce-course-assignment)
 - [Vanilla JS SPA Auction App - Semester Project](https://github.com/kimrm/auction-house)
