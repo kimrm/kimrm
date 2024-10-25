@@ -12,7 +12,6 @@ _Living the Life_
 
 ### Projects
 
-- [Full-stack Express/React - Info screen solution](https://github.com/kimrm/room-status) - Work in progress
 - [Next.js Airbnb style App - Project Exam](https://github.com/kimrm/venue-booking-app)
 - [React e-commerce - Course Assignment](https://github.com/kimrm/e-commerce-course-assignment)
 - [Vanilla JS SPA Auction App - Semester Project](https://github.com/kimrm/auction-house)
