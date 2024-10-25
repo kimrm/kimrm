@@ -12,12 +12,12 @@ _Living the Life_
 
 ### Projects
 
-- [Next.js Airbnb style App - Project Exam](https://github.com/kimrm/venue-booking-app)
-- [React e-commerce - Course Assignment](https://github.com/kimrm/e-commerce-course-assignment)
-- [Vanilla JS SPA Auction App - Semester Project](https://github.com/kimrm/auction-house)
+- [Next.js Airbnb style demo app](https://github.com/kimrm/venue-booking-app)
+- [React e-commerce demo](https://github.com/kimrm/e-commerce-course-assignment)
+- [Vanilla JS SPA Auction App - Course Project](https://github.com/kimrm/auction-house)
 - [JavaScript Social Media Site - Course Assignment](https://github.com/kimrm/JS2-CA)
-- [HTML Food blog - Project Exam](https://github.com/kimrm/foodblog)
-- [HTML Museum Website - Semester Project](https://github.com/kimrm/cosmu)
+- [HTML Food blog - Course Exam](https://github.com/kimrm/foodblog)
+- [HTML Museum Website - Course Project](https://github.com/kimrm/cosmu)
 - [HTML/JS Webshop - Course Assignment](https://github.com/kimrm/rainy-days-ca)
 - [MovieNight - Course Assignment](https://github.com/kimrm/movienight)
 
